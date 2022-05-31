@@ -3,9 +3,7 @@ package com.guysapp.ats.ui.settings
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
 import android.os.Bundle
-import android.preference.PreferenceFragment
 import android.view.View
-import androidx.preference.Preference
 import androidx.preference.PreferenceFragmentCompat
 import com.guysapp.ats.R
 
